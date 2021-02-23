@@ -1,2 +1,2 @@
-def func1(x)
+def func1(x):
     return x*2
