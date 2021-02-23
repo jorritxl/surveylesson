@@ -1,2 +1,2 @@
-a =1
-print(a)
+def func1(x)
+    return x*2
